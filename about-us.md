@@ -1,9 +1,9 @@
 # About Us
 We are a group of students at Olin College of Engineering students who worked on the Flag Quest project together for our Software Design Final Project.
 
-## Griffith they/them
+## Maeve they/them
 
-<img src="./images/griffith.jpg" alt="Picture of Griffith" width="300"/>
+<img src="./images/griffith.jpg" alt="Picture of Maeve" width="300"/>
 
 I am an Electrical and Computer Engineering major, class of 2022.
 
@@ -24,7 +24,7 @@ Major Contributions:
   * Variable consistency
 * Website and Documentation
 
-Visit my personal website: [griffithstites.com](https://www.griffithstites.com/)
+Visit my personal website: [mstites.com](https://www.mstites.com/)
 
 ## Lauren she/her
 
